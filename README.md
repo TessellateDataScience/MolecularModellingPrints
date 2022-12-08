@@ -1,2 +1,2 @@
-# MolecularModellingPrints
-Molecular modelling simulation results are developed with primary concerns towards aethetics of digital images to be printed onto material
+# Summary
+This project aims to create digital representations of molecular simulations, using [OpenMM](https://github.com/openmm/openmm) as the modelling code. These representations will simulate scenarios with awareness of the aesthetic of the 2-dimensional visual image that the simulation could produce. This is to encourage the buying of clothing-related items with these images digitally printed on them. This could provide an alternative, independent income-generation stream to research projects such as OpenMM.
